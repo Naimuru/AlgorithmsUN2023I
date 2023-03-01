@@ -5,4 +5,7 @@ Compilation of laboratories for the Algorithms course at the National University
 -----
 
 #### [Laboratorio 1](https://github.com/Naimuru/AlgorithmsUN2023I/tree/main/Lab1)
+##### Quantopian Lectures + QuantConnect Tutorials
+
+
 #### [Laboratorio 2](https://github.com/Naimuru/AlgorithmsUN2023I/tree/main/Lab2)
