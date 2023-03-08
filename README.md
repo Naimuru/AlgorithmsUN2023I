@@ -9,3 +9,8 @@ Compilation of laboratories for the Algorithms course at the National University
 
 
 #### [Laboratorio 2](https://github.com/Naimuru/AlgorithmsUN2023I/tree/main/Lab2)
+##### PyData Toolbox with Scott Sanderson
+
+
+#### [Laboratorio 3](https://github.com/Naimuru/AlgorithmsUN2023I/tree/main/Lab3)
+##### cognitiveclass.ai Applied Data Science with Python
