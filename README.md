@@ -16,9 +16,15 @@ Compilation of laboratories and Quizes for the Algorithms course at the National
 ##### cognitiveclass.ai Applied Data Science with Python
 
 
+#### [Laboratorio 4](https://github.com/Naimuru/AlgorithmsUN2023I/tree/main/Lab4)
+##### Algorithmic Toolbox – Week 1 – Programming Challenges 
+
+
 #### [Quiz 1](https://github.com/Naimuru/AlgorithmsUN2023I/tree/main/Quiz1)
 ##### Python NumPu
 
 
 #### [Quiz 3](https://github.com/Naimuru/AlgorithmsUN2023I/tree/main/Quiz3)
 ##### Python Pandas - Test cells, analysis and findings interpretation
+
+
